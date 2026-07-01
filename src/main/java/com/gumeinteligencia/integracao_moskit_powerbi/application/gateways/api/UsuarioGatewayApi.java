@@ -5,6 +5,6 @@ import com.gumeinteligencia.integracao_moskit_powerbi.application.usecase.dto.Us
 import java.util.List;
 
 public interface UsuarioGatewayApi {
-    List<UsuarioDto> consultarUsuarios();
+    List<UsuarioDto>    consultarUsuarios();
 }
 
